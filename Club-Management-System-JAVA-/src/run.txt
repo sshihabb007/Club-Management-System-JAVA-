@@ -1,0 +1,3 @@
+F:\AIUB\Java OOP1\ClubManagement\src>javac Main/Main.java
+
+F:\AIUB\Java OOP1\ClubManagement\src>java -cp  "./lib/mysql.jar;" Main.Main
